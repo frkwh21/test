@@ -1,5 +1,4 @@
 pandas
 PuLP
 streamlit
-japanize_matplotlib
 japanize-matplotlib
