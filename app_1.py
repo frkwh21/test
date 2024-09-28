@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pulp
 import matplotlib.pyplot as plt
+import japanize_matplotlib
 import io
 
 class ShiftScheduler:
